@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 <center><img src="http://images6.fanpop.com/image/photos/39500000/Olaf-frozen-39521432-258-258.gif"></center>
-<h3>BTech in IT'24 🌟</h3>
+<h3>BTech IT'24 🌟</h3>
 <h3>Here to learn and grow ❄️</h3>
-<h3>Novels and sudoku 💙<h3>
+<h3>Novels and music 💙<h3>
 <h3>Exploring different technologies 🤗</h3>
 - 🔭 I’m currently working on **WEB DEVELOPMENT**
 <br>
