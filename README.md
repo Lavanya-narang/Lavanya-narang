@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 
 <center><img align="right" src="http://images6.fanpop.com/image/photos/39500000/Olaf-frozen-39521432-258-258.gif"></center>
 <h3 >BTech IT'24 🌟</h3>
-<h3>Here to learn and grow ❄️</h3>
-<h3>Novels and nature 💙<h3>
+
 <h3>Exploring different technologies 🤗</h3>
 - 🔭 I’m currently working on **WEB DEVELOPMENT**
 <br>
 - 🌱 I’m currently learning DSA
+<h3>Novels and nature 💙<h3>
+<h3>Here to learn and grow ❄️</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lavanya-narang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavanya narang" height="30" width="40" /></a>
