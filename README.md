@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey 👋, I'm Lavanya</h1>
 
 
-<center><img align="right" src="http://images6.fanpop.com/image/photos/39500000/Olaf-frozen-39521432-258-258.gif"></center>
+<center><img align="center" src="http://images6.fanpop.com/image/photos/39500000/Olaf-frozen-39521432-258-258.gif"></center>
 <h3 >BTech IT'24 🌟</h3>
 
 <h3>Exploring different technologies 🤗</h3>
