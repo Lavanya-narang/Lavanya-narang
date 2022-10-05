@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <h3 >BTech IT'24 🌟</h3>
 
 <h3>Exploring different technologies 🤗</h3>
-- 🔭 I’m currently working on **WEB DEVELOPMENT**
+- 🔭 I’m currently working on **DSA**
 <br>
-- 🌱 I’m currently working on DSA
 - 🌱 I’m currently learning Javascript
+<br>
 <h3>Novels and nature 💙<h3>
 <h3>Here to learn and grow ❄️</h3>
 <h3>Connect with me:</h3>
