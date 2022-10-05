@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <h3>Exploring different technologies 🤗</h3>
 - 🔭 I’m currently working on **WEB DEVELOPMENT**
 <br>
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently working on DSA
+- 🌱 I’m currently learning Javascript
 <h3>Novels and nature 💙<h3>
 <h3>Here to learn and grow ❄️</h3>
 <h3>Connect with me:</h3>
